@@ -11,7 +11,7 @@ Write Lua scripts, import art from your gallery, play instantly — and export a
 
 | Home & Studio | Script Editor (Lua highlighting) | In-game |
 |---|---|---|
-| ![home](docs/screenshots/home.png) | ![editor](docs/screenshots/editor.png) | ![game](docs/screenshots/game.png) |
+| ![home](home.jpg) | ![editor](editor.jpg) | ![game](game.jpg) |
 
 ## Features / Фичи
 
